@@ -2,7 +2,7 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/pp5k6a36bqiul6ci?svg=true)](https://ci.appveyor.com/project/finchik/ra-forms-hex2rgb)
 
-WEB VERSION https://finchik.github.io/ra-forms-hex2rgb/
+### [Ссылка на Github Pages](https://finchik.github.io/ra-forms-hex2rgb/)
 
 Вам необходимо разработать конвертер цветов из HEX в RGB.
 
